@@ -22,4 +22,8 @@
 	public function func4() {
 		print '4';
 	}
+	
+	public function func4() {
+		print '5';
+	}
 ?>
