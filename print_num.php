@@ -5,4 +5,5 @@
 	echo $num * 5;
 	echo "print_num";
 	echo "happen conflict";
+	echo "happen conflict 2";
 ?>
