@@ -11,4 +11,8 @@
 	public function func1() {
 		print '1';
 	}
+
+	public function func3 () {
+		print '3';
+	}
 ?>
