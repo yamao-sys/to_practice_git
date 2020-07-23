@@ -33,4 +33,8 @@
 	public function func7() {
 		print '7';
 	}
+	
+	public function func8() {
+		print '8';
+	}
 ?>
