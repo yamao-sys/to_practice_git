@@ -1,5 +1,4 @@
 <?php
-	$num = 1;
 	echo $nu * 2;
 	echo $nm;
 	echo $num * 5;
