@@ -7,4 +7,8 @@
 	echo "happen conflict";
 	echo "happen conflict 2";
 	echo "happen conflict 2";
+
+	public function func1() {
+		print '1';
+	}
 ?>
