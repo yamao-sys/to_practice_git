@@ -2,7 +2,7 @@
 	echo $nm;
 	echo $nu * 2;
 	echo $nm;
-	echo $num * 5;
+	echo $num * 10;
 	echo "print_num";
 	echo "happen conflict";
 	echo "happen conflict 2";
