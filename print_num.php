@@ -1,7 +1,7 @@
 <?php
 	echo $nu * 2;
 	echo $nm;
-	echo $num * 5;
+	echo $num * 10;
 	echo "print_num";
 	echo "happen conflict";
 	echo "happen conflict 2";
@@ -23,7 +23,7 @@
 		print '4';
 	}
 	
-	public function func6() {
-		print '6';
+	public function func4() {
+		print '5';
 	}
 ?>
