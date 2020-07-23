@@ -1,5 +1,4 @@
 <?php
-	echo $nm;
 	echo $nu * 2;
 	echo $nm;
 	echo $num * 10;
@@ -18,5 +17,9 @@
 	
 	public function func3() {
 		print '3';
+	}
+
+	public function func4() {
+		print '4';
 	}
 ?>
