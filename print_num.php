@@ -29,5 +29,8 @@
 	
 	public function func6() {
 		print '6';
+
+	public function func7() {
+		print '7';
 	}
 ?>
