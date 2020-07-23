@@ -18,4 +18,8 @@
 	public function func3() {
 		print '3';
 	}
+
+	public function func4() {
+		print '4';
+	}
 ?>
