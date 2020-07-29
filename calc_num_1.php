@@ -6,4 +6,8 @@
 	echo 5*6;
 	echo 6*7;
 	echo 7*8;
+	echo 8*9;
+	echo 9*10;
+	echo 10*11;
+	echo 11*12;
 ?>
