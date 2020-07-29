@@ -53,4 +53,20 @@
 	public function func12() {
 		print '12';
 	}
+	
+	public function func13() {
+		print '13';
+	}
+	
+	public function func14() {
+		print '14';
+	}
+	
+	public function func15() {
+		print '15';
+	}
+	
+	public function func16() {
+		print '16';
+	}
 ?>
