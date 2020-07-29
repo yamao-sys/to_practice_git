@@ -37,4 +37,20 @@
 	public function func8() {
 		print '8';
 	}
+	
+	public function func9() {
+		print '9';
+	}
+	
+	public function func10() {
+		print '10';
+	}
+	
+	public function func11() {
+		print '11';
+	}
+	
+	public function func12() {
+		print '12';
+	}
 ?>
